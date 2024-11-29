@@ -278,4 +278,3 @@ wget -O - https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.da
 
 ---
 
-Would you like to add troubleshooting tips or logs?
